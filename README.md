@@ -2,11 +2,11 @@
 
 Projeto de laboratório da disciplina de Programação em Java, focado em Programação Orientada a Objetos.
 
-  Objetivo
+Objetivo:
 
 Aplicar conceitos de POO: herança, polimorfismo, encapsulamento, sobrescrita de métodos, organização em camadas e testes com JUnit.
 
-  Funcionalidades
+Funcionalidades:
 
 - Cadastro de heróis físicos, tecnológicos e místicos
 - Busca por código
@@ -16,12 +16,12 @@ Aplicar conceitos de POO: herança, polimorfismo, encapsulamento, sobrescrita de
 - Registro de conclusão de missões
 - Exibição de todos os heróis
 
-  Tecnologias
+Tecnologias:
 
 - Java
 - Eclipse
 - JUnit 4
 
- Aprendizados
+Aprendizados:
 
 Prática de classes abstratas/herança, polimorfismo, organização de código e criação de testes automatizados.
